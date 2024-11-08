@@ -1,7 +1,2 @@
 # python-image
 image tools
-
-
-
-
-
